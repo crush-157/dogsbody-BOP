@@ -1,0 +1,15 @@
+{
+  "description": "",
+  "displayName": "Dogsbody User",
+  "extensionManager": "com.dogsbody.user/js/RESTBOPExtensionManager",
+  "id": "com.dogsbody.user",
+  "image": "",
+  "package": "com.dogsbody.user",
+  "runtime": {
+    "resources": [
+      "js/RESTEntityProvider.js",
+      "js/RESTOperationProvider.js"
+    ]
+  },
+  "type": "businessObjectsProvider"
+}
